@@ -1,3 +1,16 @@
 .idea/
 
+venv/
+
+events/*/
+
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
 */*/*/*/__pycache__/
+*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/*/*/*/*/__pycache__/
